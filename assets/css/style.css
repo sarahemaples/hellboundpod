@@ -1,5 +1,5 @@
 * {
-    background-color: hotpink;
+    background-color: rgb(235, 149, 213);
     font-family: 'Berkshire Swash', cursive;
 }
 
@@ -11,7 +11,7 @@ body {
 #banner {
     border: solid black 10px;
     border-radius: 15%;
-    margin-top: 18px;
+    width: 70%;
 }
 
 #title-div {
@@ -20,14 +20,15 @@ body {
     margin-bottom: 0;
 }
 
-#hb-title {
-    font-size: 5em;
+#hb-banner-container{
+    margin-top: 8px;
 }
 
 #listen {
     margin-bottom: 0px;
     font-size: 1.5em;
 }
+
 
 #episodes-card {
     width: 60%;
@@ -38,4 +39,5 @@ body {
 #ep-container {
     padding-top: 16px;
     align-content: center;
+    border-radius: 1.5%;
 }
