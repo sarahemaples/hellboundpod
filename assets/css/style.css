@@ -1,3 +1,41 @@
 * {
     background-color: hotpink;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+body {
+    widows: 960px;
+    margin: 0 auto;
+}
+
+#banner {
+    border: solid black 10px;
+    border-radius: 15%;
+    margin-top: 18px;
+}
+
+#title-div {
+    text-align: center;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+#hb-title {
+    font-size: 5em;
+}
+
+#listen {
+    margin-bottom: 0px;
+    font-size: 1.5em;
+}
+
+#episodes-card {
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+}
+
+#ep-container {
+    padding-top: 16px;
+    align-content: center;
 }
